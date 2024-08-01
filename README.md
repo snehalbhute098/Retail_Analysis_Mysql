@@ -28,6 +28,8 @@ The primary problem addressed by your project is the lack of actionable insights
 
 - **Enhancing Customer Experience**: The analysis sought to refine payment and shipping options based on customer preferences, improving overall satisfaction and streamlining the shopping experience.
 
+### DataSet Details 
+
 
 Here’s a concise summary of the dataset details for your retail analysis project:
 
@@ -38,6 +40,9 @@ Here’s a concise summary of the dataset details for your retail analysis proje
 - **Payment and Shipping**: Payment methods, shipping methods, shipping costs.
 - **Discounts and Promotions**: Discounts applied, promo codes.
 - **Subscription Status**: Information on customer subscriptions.
+
+### Steps Followed
+
 
 
 Here’s a step-by-step outline :
