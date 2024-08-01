@@ -14,6 +14,8 @@ Customer trend analysis
 
 3. **Enhancing Customer Experience and Sales Strategy**:
    - Understanding preferred payment methods and shipping types helps in improving the checkout process and delivery options, enhancing customer satisfaction. Identifying trends in subscription status, discount application, and promo code usage assists in refining loyalty programs and promotional campaigns.
+  
+### Primary Problems Addressed
 
 These insights collectively help in driving sales growth, improving customer satisfaction, and optimizing overall business operations.
 
